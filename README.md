@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi, I'm Collins
+
+### I am a Fullstack nerd, I nerd away using:
+
+* Vue.js
+* JavaScript
+* React
+* Laravel
+* Node Js
 
 <!--
 **collinsNick/collinsNick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
