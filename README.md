@@ -1,6 +1,6 @@
 ### Jambo 👋
 
-## I'm Collins Nixon, Fullstack Web and Mobile Developer
+## I'm Collins Nixon, Fullstack Web Developer
 
 #### Languages :
 
