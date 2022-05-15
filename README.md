@@ -1,6 +1,6 @@
 ### Jambo 👋
 
-## I'm Collins Nixon, Fullstack Software Engineer
+## I'm Collins Nixon, Fullstack Software Developer
 
 #### Languages :
 
