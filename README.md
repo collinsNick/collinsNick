@@ -1,6 +1,6 @@
 ### Jambo 👋
 
-## I'm Collins Nixon, Fullstack Web Developer
+## I'm Collins Nixon, Fullstack Software Engineer
 
 #### Languages :
 
@@ -19,8 +19,7 @@
 <img align="left" alt="redux" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" title="Redux"/>
 <img align="left" alt="vue" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" title="Vue"/>
 <img align="left" alt="laravel" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" title="Laravel"/>
-<img align="left" alt="expres" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" title="Express" />
-<img align="left" alt="flutter" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="Flutter"/><br/><br/>
+<br/><br/>
 
 #### Databases :
 
